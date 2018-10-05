@@ -5,3 +5,10 @@ git add- Adding modified changes to git repository.
 git commit -m "First commit" -> To add a checkpoint.
 git config - It sets user name to commit.
 git remove add origin - It is used to store link in origin.
+git diff
+git clone /path/to/repository
+git commit -a
+git push origin master
+git remote add origin <server>
+git remote -v
+git checkout -b <branchname>
